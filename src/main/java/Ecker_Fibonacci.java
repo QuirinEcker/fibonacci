@@ -1,3 +1,22 @@
+/*----------------------------------------------------------
+ *                 HTL-Leonding / Klasse: 1xHITM
+ * ----------------------------------------------------------
+ * Übungsnr.:   --
+ * Übungstitel: Fibonacci
+ * Autoren:     Ecker Quirin
+ * Version:     1.0
+ * Datum:       18.11.2017
+ * ----------------------------------------------------------
+ * Kurzbeschreibung:
+ * Ausgabe der Fibonacci Reihe nach einem bestimmeten Limit.
+ *
+ * ----------------------------------------------------------
+ * Beschreibung der grundlegenden Lösungsidee:
+ * Ausgabe der Fibonacci Reihe mit einer Schleife.
+ *
+ * ----------------------------------------------------------
+*/
+
 import java.util.Scanner;
 
 public class Ecker_Fibonacci {
@@ -17,7 +36,6 @@ public class Ecker_Fibonacci {
             System.out.printf("f(  1 ): %7d \n"  , fibonacciNumber1);
         }
         else {
-
             System.out.printf("f(  1 ): %7d \n", fibonacciNumber1);
             System.out.printf("f(  2 ): %7d \n", fibonacciNumber2);
 
